@@ -1,5 +1,5 @@
 # AI-garments
-# 📌 AI-Based Productivity Prediction for Garment Workers
+#  AI-Based Productivity Prediction for Garment Workers
 
 ## 📖 Project Overview
 This project applies **predictive analytics and machine learning techniques** to analyze and predict the **productivity of garment workers** using historical production data.
@@ -8,7 +8,7 @@ The goal is to understand key factors affecting productivity and to build a reli
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Perform descriptive and statistical analysis on garment worker productivity data  
 - Clean and preprocess real-world industrial data  
 - Apply feature selection techniques  
@@ -18,14 +18,14 @@ The goal is to understand key factors affecting productivity and to build a reli
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source:** Garments Worker Productivity Dataset  
 - **File:** `garments_worker_productivity.csv`  
 - **Description:** Contains production, incentive, overtime, and performance-related attributes of garment workers.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -36,7 +36,7 @@ The goal is to understand key factors affecting productivity and to build a reli
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 1. Data Collection & Loading  
 2. Exploratory Data Analysis (EDA)  
 3. Descriptive Statistics  
@@ -50,24 +50,24 @@ The goal is to understand key factors affecting productivity and to build a reli
 
 ---
 
-## 📊 Models Used
+##  Models Used
 - Linear Regression  
 - Random Forest Regressor  
 
 ---
 
-## 🏆 Best Model
+##  Best Model
 The best model was selected based on evaluation metrics such as **R² Score** and **RMSE** and saved for future predictions.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository  
 2. Open the Jupyter Notebook  
 3. Run all cells sequentially  
 
 ---
 
-## 📌 Author
+##  Author
 **Faiyaz Zaman Kashfe**  
 BBA in Marketing & Business Analytics  
